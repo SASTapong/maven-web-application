@@ -13,7 +13,7 @@
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising billionaires and IT professionals accross the nations of the World.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
-        SAS technologist, the Pride of Africa.
+        SAS for pros, the Pride of Africa.
         Please invite all your contacts and friends for this life changing course.
 </h1>
 <hr>
