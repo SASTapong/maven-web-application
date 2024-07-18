@@ -13,8 +13,8 @@
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising billionaires and IT professionals accross the nations of the World.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
-        SAS for pros, the Pride of Africa.
-        Yes all my friends are already to be amazing engeneers.
+        SAS for pros, the Pride of Richmond TX.
+        Yes all my friends are ready to be amazing engeneers in Jesus name Amen!
 </h1>
 <hr>
 <br>
