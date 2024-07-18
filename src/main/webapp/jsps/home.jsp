@@ -14,7 +14,7 @@
 	           We are raising billionaires and IT professionals accross the nations of the World.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
         SAS for pros, the Pride of Africa.
-        Sorry all my friends are already engeneers.
+        Yes all my friends are already to be amazing engeneers.
 </h1>
 <hr>
 <br>
